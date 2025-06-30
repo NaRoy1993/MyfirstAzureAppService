@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppServiceAzure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98827297c452a01a4bc8c605c79c4ebe155fd799")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc34a5f71cd1521e62410a54ce0aaa75206be6c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppServiceAzure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppServiceAzure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

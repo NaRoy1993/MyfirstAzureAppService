@@ -1,23 +1,23 @@
 {
   "Files": [
     {
-      "Id": "D:\\MyfirstAzureAppService\\AppServiceAzure\\AppServiceAzure\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AppServiceAzure.bundle.scp.css",
+      "Id": "D:\\MyfirstAzureAppService\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AppServiceAzure.bundle.scp.css",
       "PackagePath": "staticwebassets\\AppServiceAzure.3itoesyea2.bundle.scp.css"
     },
     {
-      "Id": "D:\\MyfirstAzureAppService\\AppServiceAzure\\AppServiceAzure\\wwwroot\\app.css",
+      "Id": "D:\\MyfirstAzureAppService\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "D:\\MyfirstAzureAppService\\AppServiceAzure\\AppServiceAzure\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "D:\\MyfirstAzureAppService\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\MyfirstAzureAppService\\AppServiceAzure\\AppServiceAzure\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "D:\\MyfirstAzureAppService\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\MyfirstAzureAppService\\AppServiceAzure\\AppServiceAzure\\wwwroot\\favicon.png",
+      "Id": "D:\\MyfirstAzureAppService\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {

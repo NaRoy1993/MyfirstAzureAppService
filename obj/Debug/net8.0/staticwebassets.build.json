@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "k6ockHyuyE++E6f5f+rrQBoVqxFj8eskyAJO48kbnOU=",
+  "Hash": "LMKiFIA9MFmjRupBEdAG5plhW2P6BpQ4KhHot/LlJzM=",
   "Source": "AppServiceAzure",
   "BasePath": "_content/AppServiceAzure",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "AppServiceAzure\\wwwroot",
       "Source": "AppServiceAzure",
-      "ContentRoot": "D:\\MyfirstAzureAppService\\AppServiceAzure\\AppServiceAzure\\wwwroot\\",
+      "ContentRoot": "D:\\MyfirstAzureAppService\\wwwroot\\",
       "BasePath": "_content/AppServiceAzure",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\MyfirstAzureAppService\\AppServiceAzure\\AppServiceAzure\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AppServiceAzure.styles.css",
+      "Identity": "D:\\MyfirstAzureAppService\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AppServiceAzure.styles.css",
       "SourceId": "AppServiceAzure",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\MyfirstAzureAppService\\AppServiceAzure\\AppServiceAzure\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\MyfirstAzureAppService\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/AppServiceAzure",
       "RelativePath": "AppServiceAzure#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "WwlcvkjqijtRpY+R+W4v+eYNLEWax6WdqTd4cC5xROk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\MyfirstAzureAppService\\AppServiceAzure\\AppServiceAzure\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AppServiceAzure.styles.css"
+      "OriginalItemSpec": "D:\\MyfirstAzureAppService\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AppServiceAzure.styles.css"
     },
     {
-      "Identity": "D:\\MyfirstAzureAppService\\AppServiceAzure\\AppServiceAzure\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AppServiceAzure.bundle.scp.css",
+      "Identity": "D:\\MyfirstAzureAppService\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AppServiceAzure.bundle.scp.css",
       "SourceId": "AppServiceAzure",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\MyfirstAzureAppService\\AppServiceAzure\\AppServiceAzure\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\MyfirstAzureAppService\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/AppServiceAzure",
       "RelativePath": "AppServiceAzure#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "WwlcvkjqijtRpY+R+W4v+eYNLEWax6WdqTd4cC5xROk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\MyfirstAzureAppService\\AppServiceAzure\\AppServiceAzure\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AppServiceAzure.bundle.scp.css"
+      "OriginalItemSpec": "D:\\MyfirstAzureAppService\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AppServiceAzure.bundle.scp.css"
     },
     {
-      "Identity": "D:\\MyfirstAzureAppService\\AppServiceAzure\\AppServiceAzure\\wwwroot\\app.css",
+      "Identity": "D:\\MyfirstAzureAppService\\wwwroot\\app.css",
       "SourceId": "AppServiceAzure",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MyfirstAzureAppService\\AppServiceAzure\\AppServiceAzure\\wwwroot\\",
+      "ContentRoot": "D:\\MyfirstAzureAppService\\wwwroot\\",
       "BasePath": "_content/AppServiceAzure",
       "RelativePath": "app#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "D:\\MyfirstAzureAppService\\AppServiceAzure\\AppServiceAzure\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "D:\\MyfirstAzureAppService\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "AppServiceAzure",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MyfirstAzureAppService\\AppServiceAzure\\AppServiceAzure\\wwwroot\\",
+      "ContentRoot": "D:\\MyfirstAzureAppService\\wwwroot\\",
       "BasePath": "_content/AppServiceAzure",
       "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\MyfirstAzureAppService\\AppServiceAzure\\AppServiceAzure\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "D:\\MyfirstAzureAppService\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "AppServiceAzure",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MyfirstAzureAppService\\AppServiceAzure\\AppServiceAzure\\wwwroot\\",
+      "ContentRoot": "D:\\MyfirstAzureAppService\\wwwroot\\",
       "BasePath": "_content/AppServiceAzure",
       "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\MyfirstAzureAppService\\AppServiceAzure\\AppServiceAzure\\wwwroot\\favicon.png",
+      "Identity": "D:\\MyfirstAzureAppService\\wwwroot\\favicon.png",
       "SourceId": "AppServiceAzure",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\MyfirstAzureAppService\\AppServiceAzure\\AppServiceAzure\\wwwroot\\",
+      "ContentRoot": "D:\\MyfirstAzureAppService\\wwwroot\\",
       "BasePath": "_content/AppServiceAzure",
       "RelativePath": "favicon#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -146,7 +146,7 @@
   "Endpoints": [
     {
       "Route": "app.css",
-      "AssetFile": "D:\\MyfirstAzureAppService\\AppServiceAzure\\AppServiceAzure\\wwwroot\\app.css",
+      "AssetFile": "D:\\MyfirstAzureAppService\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -183,7 +183,7 @@
     },
     {
       "Route": "app.da95v2qkru.css",
-      "AssetFile": "D:\\MyfirstAzureAppService\\AppServiceAzure\\AppServiceAzure\\wwwroot\\app.css",
+      "AssetFile": "D:\\MyfirstAzureAppService\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -228,7 +228,7 @@
     },
     {
       "Route": "AppServiceAzure.3itoesyea2.bundle.scp.css",
-      "AssetFile": "D:\\MyfirstAzureAppService\\AppServiceAzure\\AppServiceAzure\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AppServiceAzure.bundle.scp.css",
+      "AssetFile": "D:\\MyfirstAzureAppService\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AppServiceAzure.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -273,7 +273,7 @@
     },
     {
       "Route": "AppServiceAzure.3itoesyea2.styles.css",
-      "AssetFile": "D:\\MyfirstAzureAppService\\AppServiceAzure\\AppServiceAzure\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AppServiceAzure.styles.css",
+      "AssetFile": "D:\\MyfirstAzureAppService\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AppServiceAzure.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -318,7 +318,7 @@
     },
     {
       "Route": "AppServiceAzure.bundle.scp.css",
-      "AssetFile": "D:\\MyfirstAzureAppService\\AppServiceAzure\\AppServiceAzure\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AppServiceAzure.bundle.scp.css",
+      "AssetFile": "D:\\MyfirstAzureAppService\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AppServiceAzure.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -355,7 +355,7 @@
     },
     {
       "Route": "AppServiceAzure.styles.css",
-      "AssetFile": "D:\\MyfirstAzureAppService\\AppServiceAzure\\AppServiceAzure\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AppServiceAzure.styles.css",
+      "AssetFile": "D:\\MyfirstAzureAppService\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AppServiceAzure.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -392,7 +392,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "D:\\MyfirstAzureAppService\\AppServiceAzure\\AppServiceAzure\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "D:\\MyfirstAzureAppService\\wwwroot\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -437,7 +437,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.css",
-      "AssetFile": "D:\\MyfirstAzureAppService\\AppServiceAzure\\AppServiceAzure\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "D:\\MyfirstAzureAppService\\wwwroot\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -474,7 +474,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "D:\\MyfirstAzureAppService\\AppServiceAzure\\AppServiceAzure\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "D:\\MyfirstAzureAppService\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -519,7 +519,7 @@
     },
     {
       "Route": "bootstrap/bootstrap.min.css.map",
-      "AssetFile": "D:\\MyfirstAzureAppService\\AppServiceAzure\\AppServiceAzure\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "D:\\MyfirstAzureAppService\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -556,7 +556,7 @@
     },
     {
       "Route": "favicon.ifv42okdf2.png",
-      "AssetFile": "D:\\MyfirstAzureAppService\\AppServiceAzure\\AppServiceAzure\\wwwroot\\favicon.png",
+      "AssetFile": "D:\\MyfirstAzureAppService\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -601,7 +601,7 @@
     },
     {
       "Route": "favicon.png",
-      "AssetFile": "D:\\MyfirstAzureAppService\\AppServiceAzure\\AppServiceAzure\\wwwroot\\favicon.png",
+      "AssetFile": "D:\\MyfirstAzureAppService\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
